@@ -1,4 +1,7 @@
 # qb-apartments
+Đã việt hóa
+
+If you need help contact me on discord: https://discord.gg/3GFKFPaxK3
 Apartments System for QB-Core Framework :office:
 
 # License
